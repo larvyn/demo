@@ -1,0 +1,5 @@
+{"projects": [
+ {"id": "acme", "name": "Acme Store", "path": "C:\\Sites\\acme-store", "color": "#FF2D20", "port": 8000, "addedAt": 1, "lastOpenedAt": 9},
+ {"id": "billing", "name": "Billing API", "path": "C:\\Sites\\billing-api", "color": "#3B82F6", "port": 8001, "addedAt": 1, "lastOpenedAt": 2},
+ {"id": "helpdesk", "name": "Helpdesk", "path": "C:\\Sites\\helpdesk", "color": "#22C55E", "port": 8002, "addedAt": 1, "lastOpenedAt": 1}
+], "settings": {"editor": "code", "editorCommand": "", "shell": "", "phpBinary": "", "defaultAgent": "claude", "worktreeRoot": "", "terminalFontSize": 13, "accent": "#FF2D20", "confirmDangerous": true}, "active": "acme"}

@@ -1,0 +1,3 @@
+# Larvyn writes these into its home at runtime; only the project list is part of the demo.
+/.larvyn/*
+!/.larvyn/state.json
